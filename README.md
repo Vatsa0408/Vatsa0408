@@ -33,30 +33,30 @@ reusable components, and automated developer workflows.
 
 - [Dart](https://dart.dev)
 - [Python](https://www.python.org)
-- https://learn.microsoft.com/powershell
-- https://www.markdownguide.org
+- [Powershell](https://learn.microsoft.com/powershell)
+- [Markdown](https://www.markdownguide.org)
 
 ### Application Development
 
 - [Flutter](https://flutter.dev)
 - [Android](https://developer.android.com)
-- https://learn.microsoft.com/windows/apps
+- [Windows](https://learn.microsoft.com/windows/apps)
 
 ### Computer Vision
 
-- https://ai.google.dev/edge/mediapipe/solutions/guide
+- [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 - [OpenCV](https://opencv.org)
 
 ### Version Control and Collaboration
 
-- https://git-scm.com
+- [Git](https://git-scm.com)
 - [GitHub](https://github.com)
 - [Gitea](https://about.gitea.com)
 
 ### Development Tools
 
 - [Visual Studio Code](https://code.visualstudio.com)
-- https://learn.microsoft.com/windows/terminal
+- [Windows Terminal](https://learn.microsoft.com/windows/terminal)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Claude](https://claude.ai)
 
@@ -79,8 +79,8 @@ information and launching common developer utilities.
 
 - [Flutter](https://flutter.dev)
 - [Dart](https://dart.dev)
-- https://learn.microsoft.com/windows/apps
-- https://learn.microsoft.com/powershell
+- [Windows](https://learn.microsoft.com/windows/apps)
+- [Powershell](https://learn.microsoft.com/powershell)
 
 **Project repository:**
 
@@ -104,7 +104,7 @@ landmark detection using MediaPipe.
 **Technologies:**
 
 - [Python](https://www.python.org)
-- https://ai.google.dev/edge/mediapipe/solutions/guide
+- [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 - [OpenCV](https://opencv.org)
 
 **Project repository:**
@@ -132,7 +132,7 @@ with a local Python computer-vision service.
 - [Flutter](https://flutter.dev)
 - [Dart](https://dart.dev)
 - [Python](https://www.python.org)
-- https://ai.google.dev/edge/mediapipe/solutions/guide
+- [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 - [OpenCV](https://opencv.org)
 
 **Project repository:**
@@ -157,9 +157,9 @@ maintaining a Windows development environment.
 
 **Technologies:**
 
-- https://learn.microsoft.com/powershell
-- https://learn.microsoft.com/windows/terminal
-- https://git-scm.com
+- [Powershell](https://learn.microsoft.com/powershell)
+- [Windows Terminal](https://learn.microsoft.com/windows/terminal)
+- [Git](https://git-scm.com)
 - [Flutter](https://flutter.dev)
 - [Python](https://www.python.org)
 - [Visual Studio Code](https://code.visualstudio.com)
@@ -248,8 +248,3 @@ repositories.
 ---
 
 ### Open to collaboration on Flutter, Python computer vision, and developer automation projects.
-
-
-
-
-
