@@ -84,7 +84,7 @@ information and launching common developer utilities.
 
 **Project repository:**
 
-https://github.com/YOUR-GITHUB-USERNAME/flutter-windows-system-dashboard
+[flutter-windows-system-dashboard](https://github.com/Vatsa0408/flutter_windows_system_dashboard.git)
 
 ---
 
