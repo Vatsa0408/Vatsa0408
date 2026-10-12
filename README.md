@@ -109,7 +109,7 @@ landmark detection using MediaPipe.
 
 **Project repository:**
 
-https://github.com/YOUR-GITHUB-USERNAME/mediapipe-vision-playground
+[Mediapipe Playground](https://github.com/Vatsa0408/mediapipe_playground.git)
 
 ---
 
@@ -241,10 +241,9 @@ repositories.
 
 ## 📫 Connect With Me
 
-- https://github.com/YOUR-GITHUB-USERNAME
-- YOUR-LINKEDIN-URL
-- YOUR-CV-URL
+- [GitHub](https://github.com/Vatsa0408)
+- [LinkedIn](https://linkedin.com/in/srivatsadiwakar)
 
 ---
 
-### Open to collaboration on Flutter, Python computer vision, and developer automation projects.
+## Open to collaboration on Flutter, Python computer vision, and developer automation projects.
