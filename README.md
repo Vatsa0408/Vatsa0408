@@ -16,11 +16,11 @@ reusable components, and automated developer workflows.
 
 - 📱 Cross-platform Android applications using [Flutter](https://flutter.dev)
 - 🖥️ Windows desktop applications using [Flutter](https://flutter.dev)
-- 👁️ Computer-vision solutions using [Python](https://www.python.org) and https://ai.google.dev/edge/mediapipe/solutions/guide
-- ⚙️ Windows automation using https://learn.microsoft.com/powershell
+- 👁️ Computer-vision solutions using [Python](https://www.python.org), [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide) and [YOLO V8](https://www.ultralytics.com/yolo)
+- ⚙️ Windows automation using [Powershell](https://learn.microsoft.com/powershell) and [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/)
 - 🧰 Developer tooling and command-line workflows
 - 🌿 Source-control workflows using [GitHub](https://github.com) and [Gitea](https://about.gitea.com)
-- 🤖 AI-assisted development using [GitHub Copilot](https://github.com/features/copilot) and [Claude](https://claude.ai)
+- 🤖 AI-assisted development using [OpenCode](https://opencode.ai/) and [Claude](https://claude.ai)
 
 > Most of my professional work is maintained in private repositories. The
 > public projects listed on my profile demonstrate the technologies,
@@ -46,6 +46,7 @@ reusable components, and automated developer workflows.
 
 - [Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
 - [OpenCV](https://opencv.org)
+- [YOLO V8](https://www.ultralytics.com/yolo)
 
 ### Version Control and Collaboration
 
@@ -59,6 +60,7 @@ reusable components, and automated developer workflows.
 - [Windows Terminal](https://learn.microsoft.com/windows/terminal)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [Claude](https://claude.ai)
+- [OpenCode](https://opencode.ai/)
 
 ## 🚀 Featured Projects
 
@@ -87,7 +89,7 @@ information and launching common developer utilities.
 [flutter-windows-system-dashboard](https://github.com/Vatsa0408/flutter_windows_system_dashboard.git)
 
 ---
-
+<!-- 
 ### 2. MediaPipe Vision Playground
 
 A collection of Python computer-vision examples demonstrating real-time
@@ -139,38 +141,11 @@ with a local Python computer-vision service.
 
 https://github.com/YOUR-GITHUB-USERNAME/flutter-python-vision-bridge
 
----
-
-### 4. Windows Developer Setup Automation
-
-A collection of reusable PowerShell scripts for configuring, validating, and
-maintaining a Windows development environment.
-
-**Highlights:**
-
-- Development environment validation
-- Folder and workspace setup
-- Git configuration checks
-- Flutter and Python installation checks
-- Environment-variable validation
-- Structured logging and safe error handling
-
-**Technologies:**
-
-- [Powershell](https://learn.microsoft.com/powershell)
-- [Windows Terminal](https://learn.microsoft.com/windows/terminal)
-- [Git](https://git-scm.com)
-- [Flutter](https://flutter.dev)
-- [Python](https://www.python.org)
-- [Visual Studio Code](https://code.visualstudio.com)
-
-**Project repository:**
-
-https://github.com/YOUR-GITHUB-USERNAME/windows-developer-setup-automation
+--- -->
 
 ## 🧠 How I Use AI in Development
 
-I use [GitHub Copilot](https://github.com/features/copilot) and
+I use [OpenCode](https://opencode.ai/) and
 [Claude](https://claude.ai) as development assistants for:
 
 - Exploring different implementation approaches
@@ -211,7 +186,7 @@ My typical development workflow includes:
 4. Writing and reviewing code using [Visual Studio Code](https://code.visualstudio.com)
 5. Managing source code with https://git-scm.com
 6. Collaborating through [GitHub](https://github.com) and [Gitea](https://about.gitea.com)
-7. Using [GitHub Copilot](https://github.com/features/copilot) and [Claude](https://claude.ai) to support coding, testing, refactoring, and documentation
+7. Using [OpenCode](https://opencode.ai/) and [Claude](https://claude.ai) to support coding, testing, refactoring, and documentation
 8. Testing and reviewing all changes before integration
 
 ## 📚 Currently Exploring
@@ -225,11 +200,12 @@ My typical development workflow includes:
 - Testing strategies for Flutter and Python applications
 - Improving developer productivity with AI-assisted tools
 - Application architecture and reusable component design
+- Dockers
 
 ## 🔒 Private Professional Work
 
 Most of my professional contributions are maintained in private
-[GitHub](https://github.com) or [Gitea](https://about.gitea.com) repositories.
+[Gitea](https://about.gitea.com) repositories.
 
 My public repositories contain independent demonstrations of the technologies,
 architectural patterns, development practices, and automation techniques I use
@@ -246,4 +222,4 @@ repositories.
 
 ---
 
-## Open to collaboration on Flutter, Python computer vision, and developer automation projects.
+## Open to collaboration on Flutter, Python computer vision and Machine Learning, and developer automation projects.
